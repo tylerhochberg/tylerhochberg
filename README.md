@@ -11,5 +11,5 @@ My Interests?
 
 What do I know?
 - 
-- General Programming: Python
+- General Programming: Python, C++
 - Web Dev: HTML, CSS, Javascript
